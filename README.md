@@ -1,2 +1,22 @@
-# digital-writing-2023
+# Digital Writing 2023
 RMIT University Digital Writing Lab notes and exercises
+
+## Class Resources
+
+- [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/readinglist/lists/42941256810001341)
+- [Class handbook](https://rmit.instructure.com/courses/110237/pages/class-handbook-digital-writing)
+
+## Week 1
+
+Read (on top of the weekly readings):
+1. The kinetic poem ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
+2. The electronic poem ["The Gathering Cloud"](https://luckysoap.com/thegatheringcloud/)
+3. The hypertext fiction ["First Draft of the Revolution"](https://collection.eliterature.org/3/work.html?work=first-draft-of-the-revolution)
+4. The interactive fiction work ["Shade"](https://pr-if.org/play/shade/)
+
+"Shade" is much more difficult to interact with so do read the "How to play IF" (link in the top right corner of "Shade") and look at the ["Play IF card"](https://pr-if.org/doc/play-if-card/).
+
+### Week 1 Resources
+
+- [Week 1 slides](https://slides.com/benjaminlaird/digital-writing-week-1-2023)
+- [Week 1 exercises](exercises/week1.md)
