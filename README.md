@@ -3,7 +3,7 @@ RMIT University Digital Writing Lab notes and exercises
 
 ## Class Resources
 
-- [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/readinglist/lists/42941256810001341)
+- [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/42941256810001341?auth=SAML)
 - [Class handbook](https://rmit.instructure.com/courses/110237/pages/class-handbook-digital-writing)
 
 ## Week 1
