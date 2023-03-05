@@ -41,3 +41,14 @@ We read either "Taroko Gorge" and "The Gathering Cloud", "First Draft of the Rev
 ## Before Week 2
 
 Look at the works in the [Electronic Literature Collection](https://collection.eliterature.org/) and read at least 3 that you find interesting (make sure to note the works you look at in your digital writing folio). You must pick one of these works for your Individual Case Study to present in week 4. The selection should be finalised with me by the end of class week 2. You'll likely have more success with the works in later volumes. The only work you can't select is "The Durham Poems" in volume 4.
+
+## Week 2
+
+Read (on top of the weekly readings):
+1. The fiction game [Depression Quest](http://www.depressionquest.com/)
+2. The [Bitsy](https://ledoux.itch.io/bitsy) story [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun)
+
+### Week 2 Resources
+
+- [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2-2023)
+- [Week 2 exercises](exercises/week2.md)
