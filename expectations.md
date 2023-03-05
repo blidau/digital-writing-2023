@@ -1,0 +1,22 @@
+# Expectations
+
+- Play with the form of writing
+- Developed reader-writer relationships
+- More creative with works/immersive
+- Understand what authors have done to create each work
+- Comprehensive understanding of how to use digital platforms
+- Create interactive works
+- Challenged by technology
+- Confidence with technology
+- Why it's valuable
+- To be pushed out of comfort zone
+- Different way of working to print writing
+- Pay more attention to the presentation of the writing
+- Celebrate the digital medium through writing
+- Get tools necessary to critique digital writing
+- Learn how to create without learning how to code
+- New ways of writing
+- Experience writing it yourself
+- Learn and experiment with new forms
+- Learning new ways of presenting a work
+- See how the mode of storytelling changes when the platform changes
