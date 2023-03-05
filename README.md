@@ -27,7 +27,7 @@ In class we created a [GitHub](https://github.com/) account and did the ["Hello 
 - Why do you use these tools (or techniques)?
 - How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 
-You should return to the last two questions throughout the semester as you use new tools in your writing practice and as you think about your final project.
+You should return to the last three questions throughout the semester as you use new tools in your writing practice and as you think about your final project.
 
 The `readings.md` file you should use to keep notes on your readings of the essays/chapters in the reading list and any works of electronic literature you read.
 
