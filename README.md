@@ -50,6 +50,7 @@ Read (on top of the weekly readings):
 
 - [jGnoetry](http://www.eddeaddad.net/jGnoetry/)
 - [Project Gutenberg](https://www.gutenberg.org/)
+- [ChatGPT](https://chat.openai.com/)
 
 ### Week 2 Resources
 
