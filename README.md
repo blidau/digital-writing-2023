@@ -75,3 +75,23 @@ Read (on top of the weekly readings):
 - [ChatGPT](https://chat.openai.com/)
 - [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2-2023)
 - [Week 2 exercises](exercises/week2.md)
+
+
+### Individual Case Studies
+
+- Cody
+- Erin
+- Luka
+- Emily: [forgotten nights](https://collection.eliterature.org/4/forgotten-nights)
+- Christien: [UFO Poems](https://collection.eliterature.org/4/ufo-poems)
+- Ruben
+- Sharnin
+- Isabelle: [Blackout Poetry Tool](https://collection.eliterature.org/4/blackout-poetry-tool)
+- Tarn: [Dwarf Fortress](https://collection.eliterature.org/3/work.html?work=dwarf-fortress)
+- Bronte
+- James: [Dial](https://collection.eliterature.org/4/dial)
+- Dahlia
+- Tony: [The Vine and the Fish](https://collection.eliterature.org/4/the-vine-and-the-fish)
+- Olivia
+- Amelia: [c-ya-laterrrr](https://collection.eliterature.org/4/c-ya-laterrrr)
+- Mackenzie: [Please Answer Carefully](https://collection.eliterature.org/4/please-answer-carefully)
