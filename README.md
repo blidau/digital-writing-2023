@@ -95,3 +95,11 @@ Read (on top of the weekly readings):
 - Olivia
 - Amelia: [c-ya-laterrrr](https://collection.eliterature.org/4/c-ya-laterrrr)
 - Mackenzie: [Please Answer Carefully](https://collection.eliterature.org/4/please-answer-carefully)
+
+## Week 3
+
+No class this week due to the Labour Day public holiday but you should be working on your Individual Case Study which is due week 4
+
+## Before Week 4
+
+Prepare your Individual Case Study that is due and should be presented during the 11:30 class.
