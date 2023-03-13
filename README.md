@@ -48,11 +48,10 @@ Read (on top of the weekly readings):
 1. The fiction game [Depression Quest](http://www.depressionquest.com/)
 2. The [Bitsy](https://ledoux.itch.io/bitsy) story [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun)
 
+### Week 2 Resources
+
 - [jGnoetry](http://www.eddeaddad.net/jGnoetry/)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [ChatGPT](https://chat.openai.com/)
-
-### Week 2 Resources
-
 - [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2-2023)
 - [Week 2 exercises](exercises/week2.md)
