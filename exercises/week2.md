@@ -18,7 +18,7 @@ Edit the `exercises.md` page in your digital writing folio and add the following
 - Link your GitHub account
 - Select "Remix on Glitch" on ["To Make a Dadaist Poem"](https://to-make-a-dadaist-poem.glitch.me)
 - Create a repository in GitHub for the remix
-- Change the article text
+- Change the article text (use text from a newspaper article or from a book on [Project Gutenberg](https://www.gutenberg.org/))
 - Change the line length
 - Export to GitHub after each change
 - Add a link to your Glitch project in your digital writing folio

@@ -68,11 +68,43 @@ Read (on top of the weekly readings):
 1. The fiction game [Depression Quest](http://www.depressionquest.com/)
 2. The [Bitsy](https://ledoux.itch.io/bitsy) story [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun)
 
+In this week's class, we discussed how the works of electronic literature read in class convey meaning in ways different to print literature. We talked about how the movement in "Taroko Gorge" added to the poem's meaning and how interacting with the other works was important in understanding them, how the different kinds of participation affected how the works were read, and what might constitute a game (which we will revisit in week 8).
+
+In the discussion, we addressed the questions:
+
+- What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+- How are those elements meaningful?
+- How are the works read differently from print literature?
+- How is electronic literature different from print literature?
+- What are the qualities of the works we might consider as qualities of electronic literature?
+
+These questions are important for you to consider as you should try to ask similar questions regarding your case studies. Try to answer them in your folio and ensure you're keeping it up to date. If you need any help with it, see me in class, as it is better to get it right early rather than leave it until later in the semester.
+
+For the Individual Case Study, you should have already picked the work you want to present on. If you have not, you must select a work from the Electronic Literature Collection and send your selection to me. Ensure not to pick [a work already chosen](#individual-case-studies).
+
+We then discussed how algorithms and constraints have been used in print literature and digital poetry. We looked at the following:
+
+- Tristan Tzara, [To Make a Dadaist Poem (1920)](https://www.writing.upenn.edu/~afilreis/88v/tzara.html)
+- Oulipo (1960–), N+7, Lipograms
+- John Cage, Mesostics
+- Jas Duke, "Fortran Two Love Song" (1966)
+- John Tranter, Different Hands (1998)
+- Google as a Method
+- N-grams, [jGnoetry](http://www.eddeaddad.net/jGnoetry/)
+- [ChatGPT]( https://chat.openai.com/)
+
+Next, we created [Glitch](https://glitch.com/) accounts and used Tristan Tzara's “To Make a Dadaist Poem” and N+7 as methods by remixing those processes on Glitch (see the [week 2 exercises](exercises/week2.md)).
+
+Finally, everyone was given a remix of “Taroko Gorge” and asked to answer the following questions and record the answers in their folio:
+
+- What aspects of the remix are the same?
+- What aspects of the remix are different?
+- Is the remix successful (why or why not)?
+
+If you missed the class, select any of the remixes and try and answer those questions.
+
 ### Week 2 Resources
 
-- [jGnoetry](http://www.eddeaddad.net/jGnoetry/)
-- [Project Gutenberg](https://www.gutenberg.org/)
-- [ChatGPT](https://chat.openai.com/)
 - [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2-2023)
 - [Week 2 exercises](exercises/week2.md)
 
