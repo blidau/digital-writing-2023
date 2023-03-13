@@ -79,7 +79,7 @@ Read (on top of the weekly readings):
 
 ### Individual Case Studies
 
-- Cody
+- Cody: [The Dead Tower](https://collection.eliterature.org/3/work.html?work=dead-tower)
 - Erin
 - Luka
 - Emily: [forgotten nights](https://collection.eliterature.org/4/forgotten-nights)
