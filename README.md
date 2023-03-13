@@ -6,6 +6,26 @@ RMIT University Digital Writing Lab notes and exercises
 - [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/42941256810001341?auth=SAML)
 - [Class handbook](https://rmit.instructure.com/courses/110237/pages/class-handbook-digital-writing)
 
+
+# Class GitHub Accounts
+
+- [Cody](https://github.com/Maverick616)
+- Erin
+- [Luka](https://github.com/lukadcruz)
+- Emily
+- [Christien](https://github.com/christiendariol)
+- [Ruben](https://github.com/rubengonzalez1)
+- Sharnin
+- [Isabelle](https://github.com/Issyhoward)
+- [Tarn](https://github.com/Croakymen)
+- [Bronte](https://github.com/brontelemaire)
+- [James](https://github.com/JMartinHorizons)
+- [Dahlia](https://github.com/Capt-Dr-Dahlia)
+- Tony
+- Olivia
+- [Amelia](https://github.com/ameliarosser)
+- [Mackenzie](https://github.com/mackenziesimes)
+
 ## Week 1
 
 Read (on top of the weekly readings):
