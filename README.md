@@ -117,7 +117,7 @@ If you missed the class, select any of the remixes and try and answer those ques
 - Emily: [forgotten nights](https://collection.eliterature.org/4/forgotten-nights)
 - Christien: [UFO Poems](https://collection.eliterature.org/4/ufo-poems)
 - Ruben
-- Sharnin
+- Sharnin: [The Infinite Woman](https://collection.eliterature.org/4/the-infinite-woman)
 - Isabelle: [Blackout Poetry Tool](https://collection.eliterature.org/4/blackout-poetry-tool)
 - Tarn: [Dwarf Fortress](https://collection.eliterature.org/3/work.html?work=dwarf-fortress)
 - Bronte
