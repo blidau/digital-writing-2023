@@ -124,7 +124,7 @@ If you missed the class, select any of the remixes and try and answer those ques
 - James: [Dial](https://collection.eliterature.org/4/dial)
 - Dahlia: [Redshift and Portalmetal](https://collection.eliterature.org/3/work.html?work=redshift-and-portalmetal)
 - Tony: [The Vine and the Fish](https://collection.eliterature.org/4/the-vine-and-the-fish)
-- Olivia
+- Olivia: [Everything is going to be OK](https://collection.eliterature.org/4/everything-is-going-to-be-ok)
 - Amelia: [c-ya-laterrrr](https://collection.eliterature.org/4/c-ya-laterrrr)
 - Mackenzie: [Please Answer Carefully](https://collection.eliterature.org/4/please-answer-carefully)
 
