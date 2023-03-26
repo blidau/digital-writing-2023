@@ -150,3 +150,10 @@ Prepare your Individual Case Study that is due and should be presented during th
 Make sure to submit your slides from your presentation to Canvas.
 
 Read (on top of the weekly readings) Mark Bernstein's [Patterns Of Hypertext](https://www.eastgate.com/patterns/Print.html)
+
+## Week 5
+
+### Week 5 Resources
+
+- [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2023)
+- [Week 5 exercises](exercises/week5.md)
