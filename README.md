@@ -139,17 +139,34 @@ Prepare your Individual Case Study that is due and should be presented during th
 
 ## Week 4
 
+The majority of week 4 was taken up with the case study presentations. At the end of the second class we remixed "We Walk to You".
+
+After remixing "We Walk to You", I gave an overview of HTML, CSS and JavaScript. Each can be broadly thought of as addressing different aspects of how a webpage comes together:
+
+- Structural: HTML
+- Presentational: CSS
+- Behavioural: JavaScript
+
 ### Week 4 Resources
 
 - [Week 4 slides](https://slides.com/benjaminlaird/digital-writing-week-4-2023)
 - [Week 4 exercises](exercises/week4.md)
 
+#### HTML, CSS and JavaScript Resources
+
+Mozilla Developer Resources:
+
+- [HTML (HyperText Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Before Week 5
 
 Make sure to submit your slides from your presentation to Canvas.
 
 Read (on top of the weekly readings) Mark Bernstein's [Patterns Of Hypertext](https://www.eastgate.com/patterns/Print.html)
+
+Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Week 5
 
