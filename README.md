@@ -174,3 +174,9 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 
 - [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2023)
 - [Week 5 exercises](exercises/week5.md)
+
+#### Twine Resources
+
+- [Twine Cookbook](https://twinery.org/cookbook/)
+- [Harlowe reference](https://twine2.neocities.org)
+- [Text, image and audio resources](text-image-audio-resources.md)
