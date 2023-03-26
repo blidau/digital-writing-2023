@@ -116,9 +116,9 @@ To save a history of your changes to your story and to allow you to easily publi
 In Twine you will need to create a story, add a passage and save the commit in GitHub Desktop.
 
 1. Open Twine and select "+ Story". Call the story anything you want.
-2. An "Untitled Passage" will be present. Double-click on the passage. 
+2. An "Untitled Passage" will be present. Double-click on the passage.
 3. Change the title from "Untitled Passage" to another name and edit the passage content. Close the passage.
-4. In the bottom right of Twine click the title of your story to reveal the menu.
+4. Select "Build" from the menu at the top to show the build options.
 5. Select "Publish to File" and navigate to the repository that you created. There should only be a "README.md" in the directory. Save your file as `index.html` (this is very important as when the story is published on Netlify it will make it easier to navigate to).
 6. Go to GitHub Desktop and your repository should show changes. Add the comment "Add first passage" where "Summary (required)" is shown and click "Commit to main".
 
