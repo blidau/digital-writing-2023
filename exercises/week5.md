@@ -84,7 +84,7 @@ Follow the instructions on [GitHub Pages](https://pages.github.com/) to publish 
 
 ### Create a Short Branching Fiction Story
 
-Write a short branching fiction story. It should be nine short paragraphs in length and each paragraph should link to at least two others.
+Write a short branching fiction story. It should be nine short paragraphs in length and each paragraph should link to or be linked from at least two others.
 
 ## Create and Publish a Twine Story
 
