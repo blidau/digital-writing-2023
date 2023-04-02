@@ -180,3 +180,15 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 - [Twine Cookbook](https://twinery.org/cookbook/)
 - [Harlowe reference](https://twine2.neocities.org)
 - [Text, image and audio resources](text-image-audio-resources.md)
+
+## Week 6
+
+### Additional Readings
+
+- [Adventure (Colossal Cave)](https://pr-if.org/play/adventure/)
+- [Galatea](https://pr-if.org/play/galatea/)
+
+### Week 6 Resources
+
+- [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2023)
+- [Week 6 exercises](exercises/week6.md)
