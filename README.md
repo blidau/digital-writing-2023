@@ -21,7 +21,7 @@ RMIT University Digital Writing Lab notes and exercises
 - [Bronte](https://github.com/brontelemaire)
 - [James](https://github.com/JMartinHorizons)
 - [Dahlia](https://github.com/Capt-Dr-Dahlia)
-- Tony
+- [Tony](https://github.com/Tonyskitz)
 - Olivia
 - [Amelia](https://github.com/ameliarosser)
 - [Mackenzie](https://github.com/mackenziesimes)
