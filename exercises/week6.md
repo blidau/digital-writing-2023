@@ -66,7 +66,7 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
    *.skein
    ```
 3. Commit the change
-4. Add the repository locally with [GitHub Desktop](https://desktop.github.com/)
+4. Clone the repository locally with [GitHub Desktop](https://desktop.github.com/) by selecting "File" -> "Clone Repository" and choosing your repository from the list
 5. Open Inform 7 and create a new project and call it `Example`
 6. Save the project in your repository directory
 7. Add some text to the file leaving the name of the project and your name where Inform adds it. Make sure to include "Release along with an interpreter." on the line between your story title and the story text:
