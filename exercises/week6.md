@@ -95,6 +95,27 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
 7. For the "Publish directory" make this `Example.materials/Release` if your Inform project is called `Example` otherwise this will need to be `Your project name.materials/Release`
 8. Click "Deploy site"
 
+#### Adding a Cat to the Living Room
+
+```
+The cat is an animal in the Living Room. The printed name of the cat is "a fluffy cat".
+
+Understand "pet [something]" and "stroke [something]" as petting.
+
+Petting is an action applying to one visible thing.
+
+Carry out petting the cat:
+    say "You pet the cat and it purrs contentedly."
+
+Understand "pick up [something]" and "take [something]" as picking up.
+
+Picking up is an action applying to one thing.
+
+Carry out picking up the cat:
+    say "You pick up the cat and it meows softly as it settles into your arms.";
+    move the cat to the player.
+```
+
 ## Bitsy
 
 You will be editing your Bitsy story in the Bitsy Game Maker.
