@@ -50,7 +50,7 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
 
 ### Create an Inform 7 Story
 
-1. Create a repository with on [GitHub](https://github.com/) with a `README.md` file
+1. Create a repository on [GitHub](https://github.com/) with a `README.md` file
 2. Add a new file to the repostitory called `.gitignore` and add the following contents:
    ```
    # mac
