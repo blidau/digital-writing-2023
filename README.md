@@ -211,3 +211,15 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 - [Ren'Py](https://www.renpy.org/)
 - [Tiny Tools Directory](https://tinytools.directory/)
 - [ink](https://www.inklestudios.com/ink/)
+
+## Week 7
+
+### Additional Readings
+
+- [Game, Game, Game and Again Game](https://the-next.eliterature.org/works/690/26/0/) (**note:** because of how the poem is accessed, it is a little laggy)
+- [The Jason Nelson Collection](https://the-next.eliterature.org/collections/26)
+
+### Week 7 Resources
+
+- [Week 7 slides](https://slides.com/benjaminlaird/digital-writing-week-7-2023)
+- [Week 7 exercises](exercises/week7.md)
