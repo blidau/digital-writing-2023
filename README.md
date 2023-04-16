@@ -223,3 +223,7 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 
 - [Week 7 slides](https://slides.com/benjaminlaird/digital-writing-week-7-2023)
 - [Week 7 exercises](exercises/week7.md)
+
+## Before Week 8
+
+Prepare your proposal for your developed creative work, which will be presented in class in week 8.
