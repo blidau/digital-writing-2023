@@ -226,4 +226,4 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 
 ## Before Week 8
 
-Prepare your proposal for your developed creative work, which will be presented in class in week 8.
+Prepare your [proposal for your developed creative work](proposal.md), which will be presented in class in week 8.
