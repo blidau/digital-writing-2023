@@ -10,7 +10,6 @@ RMIT University Digital Writing Lab notes and exercises
 # Class GitHub Accounts
 
 - [Cody](https://github.com/Maverick616)
-- Erin
 - [Luka](https://github.com/lukadcruz)
 - Emily
 - [Christien](https://github.com/christiendariol)
@@ -112,7 +111,6 @@ If you missed the class, select any of the remixes and try and answer those ques
 ### Individual Case Studies
 
 - Cody: [The Dead Tower](https://collection.eliterature.org/3/work.html?work=dead-tower)
-- Erin
 - Luka
 - Emily: [forgotten nights](https://collection.eliterature.org/4/forgotten-nights)
 - Christien: [UFO Poems](https://collection.eliterature.org/4/ufo-poems)
