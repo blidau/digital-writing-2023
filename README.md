@@ -187,11 +187,24 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 
 - [Adventure (Colossal Cave)](https://pr-if.org/play/adventure/)
 - [Galatea](https://pr-if.org/play/galatea/)
+- [Mindwheel](https://mindwheelgame.com/)
+
+#### On *Mindwheel*
+
+- [Mindwheel (or, The Poet and the Hackers)](https://www.filfre.net/2014/03/mindwhell-or-the-poet-and-the-hackers/)
+- [When Robert Pinsky Wrote a Video Game](https://www.newyorker.com/books/page-turner/when-robert-pinsky-wrote-a-video-game)
 
 ### Week 6 Resources
 
 - [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2023)
 - [Week 6 exercises](exercises/week6.md)
+
+#### Interactive Fiction
+
+- [Interactive Fiction Database](https://ifdb.org/)
+- [Interactive Fiction Technology Foundation](https://iftechfoundation.org/)
+- [Interactive Fiction Wiki](https://www.ifwiki.org/)
+- [Get Lamp](http://www.getlamp.com/)
 
 #### Other Platforms
 
