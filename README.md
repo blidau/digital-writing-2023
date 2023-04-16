@@ -192,3 +192,9 @@ Install [GitHub Desktop](https://desktop.github.com/) and [Visual Studio Code](h
 
 - [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2023)
 - [Week 6 exercises](exercises/week6.md)
+
+#### Other Platforms
+
+- [Ren'Py](https://www.renpy.org/)
+- [Tiny Tools Directory](https://tinytools.directory/)
+- [ink](https://www.inklestudios.com/ink/)
