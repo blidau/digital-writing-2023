@@ -50,7 +50,7 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
 2. Add the sound file for your Twine story to that folder/directory.
 3. In your Twine story add an audio element with a relative reference to your sound file. So if your sound file is called `example.mp3` add the following audio element:
    ```html
-   <audio src="./audio/example.mp3" autoplay loop />
+   <audio src="./audio/example.mp3" autoplay loop></audio>
    ```
 
 ## HTML/CSS/JavaScript
