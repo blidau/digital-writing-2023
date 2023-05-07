@@ -6,4 +6,4 @@
 - [Week 5 exercises](week5.md)
 - [Week 6 exercises](week6.md)
 - [Week 7 exercises](week7.md)
-- [Week 9 exercises](week9.md)
+- [Week 10 exercises](week10.md)

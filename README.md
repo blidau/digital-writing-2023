@@ -228,7 +228,11 @@ Prepare your [proposal for your developed creative work](proposal.md), which wil
 
 ## Week 9
 
-### Week 9 Resources
+There was no class this week as I was unwell. We will have an optional class in week 13 to make up for the missed class.
 
-- [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9-2023)
-- [Week 9 exercises](exercises/week9.md)
+## Week 10
+
+### Week 10 Resources
+
+- [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10-2023)
+- [Week 10 exercises](exercises/week10.md)
