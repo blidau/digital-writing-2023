@@ -34,7 +34,7 @@ If you want to scale all images the same way it is easiest to apply the scaling 
 
 To scale all images to 100% of the passage width:
 
-1. Open "Edit Story Stylesheet" from the menu
+1. Open "Story"->"Stylesheet" from the menu
 2. Add the following:
    ```css
    img {  /* this selects all image (img) elements */
@@ -48,7 +48,7 @@ If you want to scale only certain images or sets of images in different ways it 
 
 To add a class which scales an image to 50% of the passage width:
 
-1. Open "Edit Story Stylesheet" from the menu
+1. Open "Story"->"Stylesheet" from the menu
 2. Add the following:
    ```css
    .story-image-smaller {  /* this selects all elements with the story-image-smaller class not just images */
@@ -102,7 +102,7 @@ To use the grid layout to display an image to the right-hand side of the text:
    ```html
    <div class="story-room"><div class="story-text">This is example text.</div><div class="story-image"><img src="./images/example.jpg" alt="an example" /></div></div>
    ```
-4. Open "Edit Story Stylesheet" from the menu
+4. Open "Story"->"Stylesheet" from the menu
 5. Add the following:
    ```css
    .story-room {
