@@ -236,3 +236,14 @@ There was no class this week as I was unwell. We will have an optional class in 
 
 - [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10-2023)
 - [Week 10 exercises](exercises/week10.md)
+
+
+## Week 11
+
+### Additional Reading
+
+- [The Online Publications Bridging Poetry and Code](https://www.frieze.com/article/online-publications-bridging-poetry-and-code)
+
+### Week 11 Resources
+
+- [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11-2023)
