@@ -247,3 +247,8 @@ There was no class this week as I was unwell. We will have an optional class in 
 ### Week 11 Resources
 
 - [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11-2023)
+
+
+## Week 12
+
+In class for week 12, there will be an opportunity for you to get feedback on your developed creative work in progress and folio. We will only have one more week of class (the optional week 13) before the projects and folios are due.
