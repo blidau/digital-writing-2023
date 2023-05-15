@@ -247,6 +247,7 @@ There was no class this week as I was unwell. We will have an optional class in 
 ### Week 11 Resources
 
 - [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11-2023)
+- [Journals, zines and publications](journals.md)
 
 
 ## Week 12
