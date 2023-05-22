@@ -65,7 +65,8 @@ This, however won't scale to 100% of the height without some additional styles w
 
 ```css
 html, body, tw-story, tw-passage {
-  height: 100%; 
+  height: 100%;
+  overflow: scroll;
 }
 ```
 
@@ -82,3 +83,9 @@ tw-sidebar {
 ```
 
 ## How do you deploy a RenPy story built for the web?
+
+
+## How do you add a fixed background image that covers the width of the window
+
+
+## How do you add drop cap to the first line of each passage?
