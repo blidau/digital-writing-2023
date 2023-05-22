@@ -5,6 +5,7 @@
 - [How do you embed a Bitsy game in a Twine?](#how-do-you-embed-a-bitsy-game-in-a-twine)
 - [How do you hide the back link in Twine?](#how-do-you-hide-the-back-link-in-twine)
 - [How do you deploy a RenPy story built for the web?](#how-do-you-deploy-a-renpy-story-built-for-the-web)
+- [How do you make the whole first line of each Twine passage larger?](#how-do-you-make-the-whole-first-line-of-each-twine-passage-larger)
 
 ## How do you show an image to appear when hovering over a word in Twine?
 
@@ -88,4 +89,16 @@ tw-sidebar {
 ## How do you add a fixed background image that covers the width of the window
 
 
-## How do you add drop cap to the first line of each passage?
+## How do you add drop cap to the first line of each Twine passage?
+
+## How do you make the whole first line of each Twine passage larger?
+
+To change the style of the first line, the `first-line` pseudo-element can be selected and styled.
+
+For example, to make the first line of a passage double the size add the following:
+
+```css
+tw-passage::first-line {
+  font-size: 200%; 
+}
+```
