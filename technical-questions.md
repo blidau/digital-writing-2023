@@ -5,6 +5,8 @@
 - [How do you embed a Bitsy game in a Twine?](#how-do-you-embed-a-bitsy-game-in-a-twine)
 - [How do you hide the back link in Twine?](#how-do-you-hide-the-back-link-in-twine)
 - [How do you deploy a RenPy story built for the web?](#how-do-you-deploy-a-renpy-story-built-for-the-web)
+- [How do you add a fixed background image that covers the width of the window?](#how-do-you-add-a-fixed-background-image-that-covers-the-width-of-the-window)
+- [How do you add drop cap to the first line of each Twine passage?](#how-do-you-add-drop-cap-to-the-first-line-of-each-twine-passage)
 - [How do you make the whole first line of each Twine passage larger?](#how-do-you-make-the-whole-first-line-of-each-twine-passage-larger)
 
 ## How do you show an image to appear when hovering over a word in Twine?
@@ -86,10 +88,39 @@ tw-sidebar {
 ## How do you deploy a RenPy story built for the web?
 
 
-## How do you add a fixed background image that covers the width of the window
+## How do you add a fixed background image that covers the width of the window?
 
+Add the [background image as describe in the week 10 exercise](./exercises/week10.md#background-images-using-tags) and adjust the styles in the example.
+
+The `background-size` needs to changed to `100% auto` and a `background-attachment` needs to be added with a value of `fixed`.
+
+For example the "example background" would become:
+
+```css
+tw-story[tags~="example-background"] {
+  background-image: url(./images/background-example.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+```
 
 ## How do you add drop cap to the first line of each Twine passage?
+
+To add a drop cap to the first line, the `first-letter` pseudo-element can be selected and styled.
+
+For example, to make the first letter of a passage double the size add the following:
+
+```css
+tw-passage::first-letter {
+  -webkit-initial-letter: 2;
+  initial-letter: 2;
+} 
+```
+
+**Note:** This will not work with all browsers. There are other styles that you can use to ensure that the adjustment appears for all readers but this is a simple solution if you are happy for it to only appear for some readers.
+
+For other ways to implement this that is supported for all readers see the [CSS-Tricks snippet on drop caps](https://css-tricks.com/snippets/css/drop-caps/).
 
 ## How do you make the whole first line of each Twine passage larger?
 
