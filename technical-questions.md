@@ -109,7 +109,7 @@ tw-story[tags~="example-background"] {
 
 To add a drop cap to the first line, the `first-letter` pseudo-element can be selected and styled.
 
-For example, to make the first letter of a passage double the size add the following:
+For example, to make the first letter of a passage double the size add the following to your Twine story stylesheet:
 
 ```css
 tw-passage::first-letter {
@@ -126,7 +126,7 @@ For other ways to implement this that is supported for all readers see the [CSS-
 
 To change the style of the first line, the `first-line` pseudo-element can be selected and styled.
 
-For example, to make the first line of a passage double the size add the following:
+For example, to make the first line of a passage double the size add the following to your Twine story stylesheet:
 
 ```css
 tw-passage::first-line {
