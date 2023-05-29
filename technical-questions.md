@@ -88,6 +88,7 @@ tw-sidebar {
 
 ## How do you deploy a RenPy story built for the web?
 
+Unfortunately, without using the command line to allow Git to accept large files, the compiled files are too big. To submit a RenPy work, compile it for macOS, add it to OneDrive, and add the shareable link to your folio.
 
 ## How do you add a fixed background image that covers the width of the window?
 
