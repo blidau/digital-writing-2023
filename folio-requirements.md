@@ -3,11 +3,27 @@
 The folio demonstrates your experimentation and engagement with the form during the class. It needs to address the criteria as outlined in the class handbook:
 
 1. Objectives
+   - All the required professional documents are present
+   - Documentation of any changes between the proposal and the developed creative work
+   - Coversheet for the developed creative work is complete
+   - Success of the creative work in meeting the proposal or documented revised objectives 
 2. Evidence
+   - Folio contains a wide range of exercises
+   - Quality of the developed creative work
 3. Annotations
+   - Critical engagement with works of electronic literature that were read and discussed in class
+   - Critical engagement with the readings
+   - Developed creative work as a critical engagement with the form 
 4. Reflection
+   - Your artist statement
+   - Reflection on the class and how your practice has developed
+   - Reflections on the class exercises
+   - Reflection on the developed creative work
 5. Presentation
+   - Presentation of the folio
+   - Presentation of the developed creative work
 6. Referencing
+   - Consistent referencing
 
 Ensure that you read the [digital writing folio assessment description in the course handbook](https://rmit.instructure.com/courses/110237/pages/class-handbook-digital-writing).
 
