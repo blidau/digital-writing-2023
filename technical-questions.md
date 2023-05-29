@@ -8,6 +8,7 @@
 - [How do you add a fixed background image that covers the width of the window?](#how-do-you-add-a-fixed-background-image-that-covers-the-width-of-the-window)
 - [How do you add drop cap to the first line of each Twine passage?](#how-do-you-add-drop-cap-to-the-first-line-of-each-twine-passage)
 - [How do you make the whole first line of each Twine passage larger?](#how-do-you-make-the-whole-first-line-of-each-twine-passage-larger)
+- [How do you add a television in Inform 7](#how-do-you-add-a-television-in-inform-7)
 
 ## How do you show an image to appear when hovering over a word in Twine?
 
@@ -132,4 +133,53 @@ For example, to make the first line of a passage double the size add the followi
 tw-passage::first-line {
   font-size: 200%; 
 }
+```
+
+## How do you add a television in Inform 7
+
+Start with the "Channel 2" example from Inform 7 and update the description of the television and television stations.
+
+```inform7
+A television is a kind of device.
+
+A television has a number called the channel. Understand the channel property as referring to a television. Understand "channel" as a television.
+
+Changing the channel of it to is an action applying to one thing and one number.
+
+Understand "tune [television] to [channel]" or "change channel of [television] to [channel]" as changing the channel of it to.
+
+Understand "tune [something] to [channel]" or "change channel of [something] to [channel]" as changing the channel of it to.
+
+Understand "tune to [channel] on [television]" or "change to [channel] on [television]" as changing the channel of it to (with nouns reversed).
+
+Understand "tune to [channel] on [something]" or "change to [channel] on [something]" as changing the channel of it to (with nouns reversed).
+
+Understand "[number]" or "channel [number]" as "[channel]".
+
+Check changing the channel of something to: 
+	if the noun is not a television, say "[The noun] cannot be tuned to a channel." instead.
+
+Carry out changing the channel of something to: 
+	now the channel of the noun is the number understood.
+
+Report changing the channel of something to: 
+	say "You tune [the noun] to channel [number understood]."
+
+
+Instead of examining a television:
+	if the noun is switched off, say "[The noun] is currently turned off." instead;
+	let the chosen channel be the channel of the noun;
+	if the chosen channel is a current channel listed in the Table of Television Channels:
+		choose row with current channel of the chosen channel in the Table of Television Channels;
+		say "[output entry][paragraph break]"; 
+	otherwise:
+		say "Snow fills the screen of [the noun]."
+
+Table of Television Channels
+current channel	output
+0	"The screen of [the noun] is completely black."
+4	"A man running through a field."
+5	"A news report flashes up a map of Victoria showing the epicentre of an earthquake."
+
+The TV is a television in the Office.
 ```
